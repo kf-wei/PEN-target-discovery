@@ -1,0 +1,13 @@
+__pycache__/
+*.pyc
+*.log
+.DS_Store
+
+*.h5ad
+*.pt
+*.pth
+*.pkl
+*.npy
+
+data/raw/
+results/*

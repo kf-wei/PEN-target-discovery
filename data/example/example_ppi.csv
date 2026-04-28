@@ -1,0 +1,5 @@
+source,target,weight
+A1BG,AHSG,0.849
+A1BG,AMBP,0.716
+A1BG,CRISP3,0.941
+A1BG,CRK,0.745
